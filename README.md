@@ -3,6 +3,10 @@
 # windows-desktop-switcher
 An AutoHotkey script for Windows that lets a user switch virtual desktops by pressing <kbd>Win</kbd> and a number row key at the sime time (e.g. <kbd>Win</kbd> + <kbd>2</kbd> to switch to Desktop 2). It also provides other features, such as customizing the key combinations, creation/deletion of desktops by hotkey, etc. (see Hotkeys section below).
 
+## Changes done from the original repo
+
+To fit to my preference, I have replaced the mod key from CapsLock to Windows key. Also I have done some slight changes in the behavior as well.
+
 ## Hotkeys
 
 Action | Keys 
