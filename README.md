@@ -5,7 +5,7 @@ An AutoHotkey script for Windows that lets a user switch virtual desktops by pre
 
 ## Changes done from the original repo
 
-To fit to my preference, I have replaced the mod key from CapsLock to Windows key. Also I have done some slight changes in the behavior as well.
+To fit to my preference, I have replaced the mod key from `CapsLock` to `Windows key`. Also I have done some slight changes in the behavior as well.
 
 ## Hotkeys
 
